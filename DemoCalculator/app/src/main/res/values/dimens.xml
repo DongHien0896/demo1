@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="height_default">0dp</dimen>
+
+    <dimen name="width_default">0dp</dimen>
+
+    <dimen name="button_margin">1dp</dimen>
+
+    <dimen name="button_text_normal_size">25dp</dimen>
+
+    <dimen name="text_top_size">64dp</dimen>
+
+    <integer name="button_weight_normal">1</integer>
+
+    <integer name="button_weight_double">2</integer>
+
+    <integer name="linear_weight_top">1</integer>
+
+    <integer name="linear_weight_bottom">3</integer>
+
+    <integer name="tabRow_weight_normal">3</integer>
+
+</resources>
